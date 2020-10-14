@@ -16,7 +16,11 @@
 * Users will be able to post questions to a public forum
 * Other Users will be able to read and answer questions posted in the public forum
 
+
 **Non Functional**
+* Carrousel of testimonial 
+
+
 
 ## Prioritized Feature List
 * 
