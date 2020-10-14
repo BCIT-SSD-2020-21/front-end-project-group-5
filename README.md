@@ -54,3 +54,7 @@
 <img src="https://i.imgur.com/1qxg2Gp.png" width="50%%">
 
 <img src="https://i.imgur.com/PBuiTow.png" width="50%%">
+
+**Color Palett**
+<a href="https://color.adobe.com/color-theme_SALMON-ARM-BEST-COMMUNITIES-CANADA-color-theme-16066589">Adobe Color Pallete</a>
+ 
