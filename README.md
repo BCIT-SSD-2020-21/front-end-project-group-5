@@ -1,11 +1,13 @@
+## DREAMLAND TRAVELS
 # FrontEnd Project | Tourism + E-Commerce
 ## Vacation hotel/rent Booking Service + E-commerce Souvenir products
 ###### AJ P, Deepika, Nicholas, Mina, Thelma
 
-**App Name:** ___ <br/>
+
+
+**App Name:** DREAMLAND TRAVELS<br/>
 **Description:**
 * A website where users who plan to stay and discover British Columbia can  avail unique tour packages  in BC.
-* 
 *
 
 ## Functional vs. Non-Functional Requirements
@@ -17,6 +19,7 @@
 **Non Functional**
 
 ## Prioritized Feature List
+* 
 **Must Haves**
 **Nice-To-Haves**
 **Future Iteration**
