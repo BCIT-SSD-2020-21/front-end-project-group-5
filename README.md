@@ -8,18 +8,24 @@
 **App Name:** DREAMLAND TRAVELS<br/>
 **Description:**
 *  A website where users who plan to stay and discover British Columbia can  avail unique tour packages in BC.
-*
+
 
 ## Functional vs. Non-Functional Requirements
 
 **Functional**:
+* Display the available packages 
+* Select a package 
+* Add the package to the cart
+* A method for payment
+* Various activities a user can choose from
 * Users will be able to post questions to a public forum
 * Other Users will be able to read and answer questions posted in the public forum
 
 **Non Functional**
+* Testimonials
 
 ## Prioritized Feature List
-* 
+
 **Must Haves**
 **Nice-To-Haves**
 **Future Iteration**
