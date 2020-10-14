@@ -57,4 +57,6 @@
 
 **Color Palette**
 <a href="https://color.adobe.com/color-theme_SALMON-ARM-BEST-COMMUNITIES-CANADA-color-theme-16066589">Adobe Color Pallete</a>
+<br>
 <img src="https://imgur.com/YJF57oe.png" width="50%%">
+<img src="https://imgur.com/2DqvaLN.png" width="50%%">
