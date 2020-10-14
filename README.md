@@ -17,6 +17,7 @@
 * Select a package 
 * Add the package to the cart
 * A method for payment
+* Checkout and Confirmation
 * Various activities a user can choose from
 * Users will be able to post questions to a public forum
 * Other Users will be able to read and answer questions posted in the public forum
