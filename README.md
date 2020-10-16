@@ -1,6 +1,6 @@
-## DREAMLAND TRAVELS
-# FrontEnd Project | Tourism + E-Commerce
-## Vacation hotel/rent Booking Service + E-commerce Souvenir products
+## VANCOUVER SOUVENIRS
+# FrontEnd Project | Vancouver Souvenirs
+## Souvenirs for everyone!!
 ###### AJ P, Deepika, Nicholas, Mina, Thelma
 
 
@@ -8,31 +8,42 @@
 ![](https://i.imgur.com/6PFf0Xg.png)
 
 
-**App Name:** DREAMLAND TRAVELS<br/>
+**App Name:** VANCOUVER SOUVENIRS<br/>
 **Description:**
-*  A website where users who plan to stay and discover British Columbia can  avail unique tour packages in BC.
+*  A website where users can explore and buy souvenirs while visiting the Lower Mainland's main tourist attraction "Vancouver"
 
 
 ## Functional vs. Non-Functional Requirements
 
 **Functional**:
-* Display the available packages 
-* Select a package 
-* Add the package to the cart
+* Product page 
+* Select a product 
+* View a product
+* Search a product
+* Add the product to the cart
 * A method for payment
 * Checkout and Confirmation
-* Various activities a user can choose from
-* Users will be able to post questions to a public forum
-* Other Users will be able to read and answer questions posted in the public forum
+
 
 **Non Functional**
 * Carousel for Testimonials
 * Special Offers  
+* Users will be able to post questions to a public forum
+* Other Users will be able to read and answer questions posted in the public forum
 
 ## Prioritized Feature List
 
 **Must Haves**
+* Product Page
+* Select a product 
+* View a product
+* Add the product to the cart
+* A method for payment
+* Checkout and Confirmation
+
 **Nice-To-Haves**
+* Search a product
+
 **Future Iteration**
 
 ## Wireframes ##
