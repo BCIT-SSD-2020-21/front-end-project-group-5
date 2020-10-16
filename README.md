@@ -4,6 +4,9 @@
 ###### AJ P, Deepika, Nicholas, Mina, Thelma
 
 
+![](https://i.imgur.com/qTakTKN.png)
+![](https://i.imgur.com/6PFf0Xg.png)
+
 
 **App Name:** DREAMLAND TRAVELS<br/>
 **Description:**
