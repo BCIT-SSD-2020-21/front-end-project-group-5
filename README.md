@@ -74,15 +74,13 @@
 <a href="https://color.adobe.com/color-theme_SALMON-ARM-BEST-COMMUNITIES-CANADA-color-theme-16066589">Adobe Color Pallete</a>
 <br>
 <img src="https://imgur.com/YJF57oe.png" width="50%%">
-<img src="https://imgur.com/2DqvaLN.png" width="50%%">
+<!-- <img src="https://imgur.com/2DqvaLN.png" width="50%%"> -->
 
-## Prototypes ##
-**hotel - booking service**
-<img src="https://i.imgur.com/k1NzWAh.jpg" width="50%%">
-<img src="https://i.imgur.com/W6nhsaq.jpg" width="50%%">
-<img src="https://i.imgur.com/tdWTrnC.jpg" width="50%%">
-<img src="https://i.imgur.com/rnJWxKk.png" width="50%%">
+## XD Prototypes ##
 **ecommerce - BC products/souvenirs**
-<img src="https://i.imgur.com/eGNnhoa.png" width="50%%">
-<img src="https://i.imgur.com/xIKqxey.png" width="50%%">
-<img src="https://i.imgur.com/GIJeGTw.png" width="50%%">
+
+<img src="https://imgur.com/fQ0Ua65.png" width="50%%">
+<img src="https://imgur.com/9ng1QD7.pmg" width="50%%">
+<img src="https://imgur.com/m64j3sD.png" width="50%%">
+<img src="https://imgur.com/wu4AuKb.pmg" width="50%%">
+<img src="https://imgur.com/nRjJuOe.png" width="50%%">
