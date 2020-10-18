@@ -4,9 +4,6 @@
 ###### AJ P, Deepika, Nicholas, Mina, Thelma
 
 
-![](https://i.imgur.com/qTakTKN.png)
-![](https://i.imgur.com/6PFf0Xg.png)
-
 
 **App Name:** VANCOUVER SOUVENIRS<br/>
 **Description:**
@@ -47,6 +44,11 @@
 **Future Iteration**
 
 ## Wireframes ##
+
+![](https://i.imgur.com/qTakTKN.png)
+![](https://i.imgur.com/6PFf0Xg.png)
+
+
 
 <img src="https://i.imgur.com/grQ4JCY.png" width="50%%">
 
