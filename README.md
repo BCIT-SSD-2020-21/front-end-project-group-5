@@ -82,7 +82,7 @@
 **ecommerce - BC products/souvenirs**
 
 <img src="https://imgur.com/fQ0Ua65.png" width="50%%">
-<img src="https://imgur.com/9ng1QD7.pmg" width="50%%">
+<img src="https://imgur.com/9ng1QD7.png" width="50%%">
 <img src="https://imgur.com/m64j3sD.png" width="50%%">
-<img src="https://imgur.com/wu4AuKb.pmg" width="50%%">
+<img src="https://imgur.com/wu4AuKb.png" width="50%%">
 <img src="https://imgur.com/nRjJuOe.png" width="50%%">
