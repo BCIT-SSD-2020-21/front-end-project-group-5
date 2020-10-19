@@ -1,0 +1,36 @@
+header {
+  background-color: #403C02;
+  color: white;
+  padding: 50px;
+  display: flex;
+  justify-content: space-between; }
+
+.navbar {
+  background-color: #052A59;
+  color: white;
+  justify-content: center;
+  text-align: center;
+  padding: 10px; }
+
+.homegalleryup {
+  background-color: #568EBF; }
+
+footer {
+  padding: 20px;
+  background-color: #D9A404;
+  display: flex;
+  justify-content: space-between; }
+
+.copyright {
+  background-color: #403C02;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 20px; }
+
+.copyright img {
+  width: 30px;
+  height: 15px;
+  border-radius: 2px; }
+
+/*# sourceMappingURL=main.css.map */
