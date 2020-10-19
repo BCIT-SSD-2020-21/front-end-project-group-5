@@ -34,10 +34,18 @@
                 <label for="billing_last_name" class="">Last name&nbsp;<abbr class="required" title="required">*</abbr></label>
                 <span class="woocommerce-input-wrapper"><input type="text" class="input-text " name="billing_last_name" id="billing_last_name" placeholder="" value="" autocomplete="family-name"></span>
             </p>
-            <p class="form-row form-row-wide" id="billing_company_field" data-priority="30">
-                <label for="billing_company" class="">Company name&nbsp;<span class="optional">(optional)</span></label>
-                <span class="woocommerce-input-wrapper"><input type="text" class="input-text " name="billing_company" id="billing_company" placeholder="" value="" autocomplete="organization"></span>
+            <p class="form-row form-row-wide" id="billing_credit_card_field" data-priority="30">
+                <label for="billing_credit_card" class="">Credit Card Number&nbsp;</label>
+                <span class="woocommerce-input-wrapper"><input type="text" class="input-text " name="billing_credit_card" id="billing_credit_card" placeholder="" value="" autocomplete="organization"></span>
             </p>
+            <p class="form-row form-row-wide" id="billing_expiration_field" data-priority="30">
+                <label for="billing_expiration" class="">Credit Expiration Date&nbsp;</label>
+                <span class="woocommerce-input-wrapper"><input type="text" class="input-text " name="billing_expiration" id="billing_expiration" placeholder="" value="" autocomplete="organization"></span>
+            </p>
+            <p class="form-row form-row-wide" id="billing_CVW_field" data-priority="30">
+                <label for="billing_CVW" class="">Credit Card CVW&nbsp;</label>
+                <span class="woocommerce-input-wrapper"><input type="text" class="input-text " name="billing_CVW" id="billing_CVW" placeholder="" value="" autocomplete="organization"></span>
+            </p>   
             <p class="form-row form-row-wide address-field update_totals_on_change validate-required" id="billing_country_field" data-priority="40">
                 <label for="billing_country" class="">Country / Region&nbsp;<abbr class="required" title="required">*</abbr></label>
                 <span class="woocommerce-input-wrapper">
@@ -292,20 +300,7 @@
                         <option value="YE">Yemen</option>
                         <option value="ZM">Zambia</option>
                         <option value="ZW">Zimbabwe</option>
-                    </select>
-                    <span class="select2 select2-container select2-container--default" dir="ltr" style="width: 100%;">
-                        <span class="selection">
-                            <span class="select2-selection select2-selection--single" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-labelledby="select2-billing_country-container" role="combobox"><span class="select2-selection__rendered" id="select2-billing_country-container" role="textbox" aria-readonly="true" title="United Kingdom (UK)">United Kingdom (UK)
-                            </span>
-                            <span class="select2-selection__arrow" role="presentation"><b role="presentation"></b>
-                            </span>
-                        </span>
-                    </span>
-                    <span class="dropdown-wrapper" aria-hidden="true"></span>
-                </span>
-                <noscript>
-                    <button type="submit" name="woocommerce_checkout_update_totals" value="Update country / region">Update country / region</button>
-                </noscript>
+                    </select>         
             </span>
         </p>
         
@@ -317,7 +312,7 @@
         </p>
         
         <p class="form-row address-field form-row-wide" id="billing_address_2_field" data-priority="60">
-            <label for="billing_address_2" class="screen-reader-text">Apartment, suite, unit, etc. (optional)&nbsp;
+            <label for="billing_address_2" class="screen-reader-text">Apartment, suite, unit, etc.&nbsp;
                 <span class="optional">(optional)
 
                 </span>
@@ -335,7 +330,7 @@
         </p>
         
         <p class="form-row address-field validate-state form-row-wide" id="billing_state_field" data-priority="80" data-o_class="form-row form-row-wide address-field validate-state">
-            <label for="billing_state" class="">County&nbsp;<span class="optional">(optional)</span></label>
+            <label for="billing_state" class="">Province&nbsp;</label>
             <span class="woocommerce-input-wrapper">
                 <input type="text" class="input-text " value="BC" placeholder="" name="billing_state" id="billing_state" autocomplete="address-level1" data-input-classes="">
             </span>
@@ -378,6 +373,9 @@
         </span>
     </p>					
 </div>
+
+<!-- Submit Button -->
+<button type="submit" value="submit">Submit</button>
 
 </body>
 </html>	
