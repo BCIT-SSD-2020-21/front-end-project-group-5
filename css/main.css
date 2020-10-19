@@ -13,7 +13,16 @@ header {
   padding: 10px; }
 
 .homegalleryup {
-  background-color: #568EBF; }
+  background-color: #568EBF;
+  display: flex; }
+
+.sideimage carousel {
+  width: 1000px;
+  height: 1000px; }
+
+.sideimage img {
+  width: 500px;
+  height: 300px; }
 
 footer {
   padding: 20px;
@@ -26,7 +35,7 @@ footer {
   color: white;
   display: flex;
   justify-content: space-between;
-  padding: 15px 20px; }
+  padding: 15px 25%; }
 
 .copyright img {
   width: 30px;
