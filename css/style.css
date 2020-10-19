@@ -1,0 +1,21 @@
+.header-mid {
+  background-color: #403C02;
+}
+
+li a {
+  color: #fff;
+}
+
+#navin {
+  height: 30px;
+  width: 60%;
+  border-radius: 6px 0px 0px 6px;
+  padding: 0 0 0 10px;
+  text-align: left;
+}
+
+#navsub {
+  padding: 0px 10px 0px 10px;
+  height: 30px;
+  border-radius: 0 6px 6px 0;
+}

@@ -1,0 +1,32 @@
+//*brand colors -------------------
+//$body-bg-color: rgb(222,240,226);
+//$dark-bg-color: #90c398;
+//$brown: #86574d;
+//$red: #f43636;
+
+// fonts -------------------
+//$body-font: 'Poppins', sans-serif;
+//$line-height: 1.4;
+
+
+//utility variables -------------------
+$box-shadow: 0px 3px 3px -3px rgba(0, 0, 0, 0.75);
+
+//Layout Variables -------------------
+$padding: 30px;
+
+
+//-------------------
+// function to convert px to ems
+//bd stands for browser default = 16px;
+//function -------------------
+@function em($px, $bd:16) {
+  @return #{$px/$bd}em;
+}
+
+//-------------------
+//$desktopMedium: em(1250);
+//$tabletLandscape: em(1024);
+//$tabletPortrait: em(850);
+//$phoneLandscape: em(670);
+//$phonePortrait: em(670);
