@@ -533,7 +533,7 @@
             _.options.slidesToScroll = 1;
         }
 
-        $('images[data-lazy]', _.$slider).not('[src]').addClass('slick-loading');
+        $('img[data-lazy]', _.$slider).not('[src]').addClass('slick-loading');
 
         _.setupInfinite();
 
@@ -1519,7 +1519,7 @@
 
         function loadImages(imagesScope) {
 
-            $('images[data-lazy]', imagesScope).each(function() {
+            $('img[data-lazy]', imagesScope).each(function() {
 
                 var image = $(this),
                     imageSource = $(this).attr('data-lazy'),
@@ -1738,7 +1738,7 @@
         tryCount = tryCount || 1;
 
         var _ = this,
-            $imgsToLoad = $( 'images[data-lazy]', _.$slider ),
+            $imgsToLoad = $( 'img[data-lazy]', _.$slider ),
             image,
             imageSource,
             imageSrcSet,
