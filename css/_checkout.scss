@@ -67,6 +67,18 @@ input[type=submit]:hover {
     margin-right: 15px;
 }
 .btn-secondary {
-    color: ##D9A404;
+    color: #fff;
     background-color: #D9A404;
+}
+
+.btn-secondary:hover {
+    color: #fff;
+    background-color: #d95904;
+}
+
+ button.submit  {
+    color: #fff;
+    background-color: #D9A404;
+    border: none;
+
 }
