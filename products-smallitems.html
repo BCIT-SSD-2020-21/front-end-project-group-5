@@ -6,13 +6,63 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <title>Products</title>
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="fonts/font-awesome.min.css">
     <link rel="stylesheet" href="css/styles.css">
 </head>
 
 <body>
-<header id="header" class="mb-5" style="background: rgb(64,60,2);">
+<header id="header">
+    <div class="site-header-top-wrapper topbar-style--default sh--light">
+        <div class="row no-gutters bg-white">
+            <div class="col d-flex justify-content-md-center align-items-md-center w-100" style="padding-bottom: 3px;padding-top: 3px;">
+                <ul class="d-flex justify-content-end topnav nav-acct">
+                    <li class="topnav-li"><a class="kl-login-box topnav-item" href="login.html" style="font-size: 13px;"><i class="fa fa-user glyphicon glyphicon-log-in visible-xs xs-icon" style="font-size: 17px;color: rgb(0,0,0);padding-right: 5px;padding-left: 5px;"></i><span style="color: rgb(0,0,0);">My Account</span></a></li>
+                    <li
+                            class="topnav-li"><a class="kl-login-box topnav-item" href="login.html" style="color: rgb(0,0,0);"><span style="font-size: 13px;">My Wishlist</span></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
     <div class="site-header-wrapper">
+        <div class="kl-top-header site-header-main-wrapper clearfix header-no-bottom sh--light">
+            <div class="fxb-col fxb-basis-auto">
+                <div class="row no-gutters fxb-row site-header-row site-header-main">
+                    <div class="col" id="navbar">
+                        <div class="mx-auto header-mid fxb site-header-col-left header-mid-wrapper">
+                            <div>
+                                <div class="site-header-wrapper"><a class="site-logo-anch" href="#"><img src="images/gift-logo.png" alt="DreamLand logo"></a></div>
+                            </div>
+                            <div class="fxb-col fxb fxb-end-x fxb-center-y fxb-basis-auto fxb-sm-half site-header-col-right site-header-main-right">
+                                <form class="d-flex flex-grow-1 nav-search-container"><input class="form-control" type="text" id="navin" placeholder="Search" aria-label="Search"><button class="btn" id="navsub" type="button" value="ok" name="ok"><i class="fa fa-search"></i></button></form>
+                                <ul class="sh-component topnav navLeft topnav--cart topnav-no-sc topnav-no-hdnav">
+                                    <li class="drop midnav-drop midnav-li"><a id="mycartbtn" class="midnav kl-cart-button topnav-item kl-cart--" href="cart.html" title="View your shopping cart"><i class="fa fa-shopping-cart glyphicon glyphicon-shopping-cart kl-cart-icon flipX-icon xs-icon" data-count="0" style="font-size: 44px;"></i><span style="font-size: 24px;"></span></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <nav class="navbar navbar-light navbar-expand-md" style="background: rgb(2,4,64);">
+        <div class="container-fluid"><button data-toggle="collapse" class="navbar-toggler ml-auto" data-target="#navcol-1" id="menuToggle"><span class="sr-only"></span><span class="navbar-toggler-icon"></span><span></span></button>
+            <div class="collapse navbar-collapse" id="navcol-1">
+                <div class="d-flex justify-content-center align-items-xl-center" role="navigation" style="width: 100%;height: 100%;">
+                    <ul class="nav navbar-nav list-unstyled d-block align-items-center nav-bottom">
+                        <li class="nav-item"><a class="nav-link active" href="index.html">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" href="products.html">Products</a></li>
+                        <li class="nav-item"><a class="nav-link" href="cart.html">cart<br>(<em>placeholder</em>)</a></li>
+                        <li class="nav-item"><a class="nav-link" href="checkout.html">checkout<br>(<em>placeholder</em>)</a></li>
+                        <li class="nav-item"><a class="nav-link" href="product-single.html">product-single<br><em>(placeholder)</em></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<div class="site-header-wrapper">
         <div class="site-header-top-wrapper topbar-style--default sh--light">
             <div class="row no-gutters bg-white">
                 <div class="col d-flex w-100" style="padding-top: 5px;padding-bottom: 5px;">
@@ -234,7 +284,7 @@
                         <div class="row mb-2 ">
                             <div class="col-md-4 mb-4">
                                 <div class="card news-card">
-                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/Small_items/Keychain1.jpg" alt="Canucks Keychain" height="auto">
+                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/small-items/Keychain1.jpg" alt="Canucks Keychain" height="auto">
                                     <div class="card-body d-flex flex-column">
                                         <p class="card-text"> Canucks Player Keychain</p>
                                         <h6 class="card-title">CA $8.00</h6>
@@ -243,7 +293,7 @@
                             </div>
                             <div class="col-md-4 mb-4">
                                 <div class="card news-card">
-                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/Small_items/Keychain2.jpg" alt="Vancouver Mono Keychain" height="auto">
+                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/small-items/Keychain2.jpg" alt="Vancouver Mono Keychain" height="auto">
                                     <div class="card-body d-flex flex-column">
                                         <p class="card-text">Vancouver Metal Keychaini</p>
                                         <h6 class="card-title">CA $5.00</h6>
@@ -252,7 +302,7 @@
                             </div>
                             <div class="col-md-4 mb-4">
                                 <div class="card news-card">
-                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/Small_items/Keychain3.jpg" alt="Vacouver Globe Keychain" height="auto">
+                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/small-items/Keychain3.jpg" alt="Vacouver Globe Keychain" height="auto">
                                     <div class="card-body d-flex flex-column">
                                         <p class="card-text"> Vancouver Globe Keychain </p>
                                         <h6 class="card-title">CA $5.00</h6>
@@ -265,7 +315,7 @@
                         <div class="row mb-2 ">
                             <div class="col-md-4 mb-4">
                                 <div class="card news-card">
-                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/Small_items/Ornament1.jpg" alt="Bear Ornament" height="auto">
+                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/small-items/Ornament1.jpg" alt="Bear Ornament" height="auto">
                                     <div class="card-body d-flex flex-column">
                                         <p class="card-text">Bear Ornament</p>
                                         <h6 class="card-title">CA $5.00</h6>
@@ -274,7 +324,7 @@
                             </div>
                             <div class="col-md-4 mb-4">
                                 <div class="card news-card">
-                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/Small_items/Ornament3.jpg" alt="Mountie Ornament" height="auto" >
+                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/small-items/Ornament3.jpg" alt="Mountie Ornament" height="auto" >
                                     <div class="card-body d-flex flex-column">
                                         <p class="card-text">Mounties Ornament/p>
                                         <h6 class="card-title">>CA $5.00</h6>
@@ -283,7 +333,7 @@
                             </div>
                             <div class="col-md-4 mb-4">
                                 <div class="card news-card">
-                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/Small_items/Ornament4.jpg" alt="Moose Ornament" height="auto">
+                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/small-items/Ornament4.jpg" alt="Moose Ornament" height="auto">
                                     <div class="card-body d-flex flex-column">
                                         <p class="card-text">Moose Ornament</p>
                                         <h6 class="card-title">CA $5.00</h6>
@@ -296,7 +346,7 @@
                         <div class="row mb-2 ">
                             <div class="col-md-4 mb-4">
                                 <div class="card news-card">
-                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/Small_items/Stufftoy1.png"  alt="Paddington Bear Stufftoy" height="auto">
+                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/small-items/Stufftoy1.png" alt="Paddington Bear Stufftoy" height="auto">
                                     <div class="card-body d-flex flex-column">
                                         <p class="card-text"> Bear Plush</p>
                                         <h6 class="card-title">CA $10.00</h6>
@@ -305,7 +355,7 @@
                             </div>
                             <div class="col-md-4 mb-4">
                                 <div class="card news-card">
-                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/Small_items/Stufftoy3.jpg" alt="Canucks Stufftoy" height="auto" >
+                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/small-items/Stufftoy3.jpg" alt="Canucks Stufftoy" height="auto" >
                                     <div class="card-body d-flex flex-column">
                                         <p class="card-text">Canucks Plush</p>
                                         <h6 class="card-title">$15.00</h6>
@@ -314,7 +364,7 @@
                             </div>
                             <div class="col-md-4 mb-4">
                                 <div class="card news-card">
-                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/Small_items/Stufftoy5.jpg" alt="Bear Canucks Stufftoy" height="auto" >
+                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/small-items/Stufftoy5.jpg" alt="Bear Canucks Stufftoy" height="auto" >
                                     <div class="card-body d-flex flex-column">
                                         <p class="card-text">  Bear Canucks Plush</p>
                                         <h6 class="card-title">CA $15.00</h6>
@@ -327,7 +377,7 @@
                         <div class="row mb-2 ">
                             <div class="col-md-4 mb-4">
                                 <div class="card news-card">
-                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/Small_items/Stufftoy6.jpg"  alt="Moose Stufftoy" height="auto">
+                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/small-items/Stufftoy6.jpg" alt="Moose Stufftoy" height="auto">
                                     <div class="card-body d-flex flex-column">
                                         <p class="card-text">Moose Mounties Plush </p>
                                         <h6 class="card-title">$15.00</h6>
@@ -336,7 +386,7 @@
                             </div>
                             <div class="col-md-4 mb-4">
                                 <div class="card news-card">
-                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/Small_items/ToyCar1.jpg" alt="RCMP Toy Car" height="auto">
+                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/small-items/ToyCar1.jpg" alt="RCMP Toy Car" height="auto">
                                     <div class="card-body d-flex flex-column">
                                         <p class="card-text">RCMP Toy Car</p>
                                         <h6 class="card-title">CA $18.50</h6>
@@ -345,7 +395,7 @@
                             </div>
                             <div class="col-md-4 mb-4">
                                 <div class="card news-card">
-                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/Small_items/Snowglobe1.jpg" alt="Mono Snowglobe" height="auto" >
+                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/small-items/Snowglobe1.jpg" alt="Mono Snowglobe" height="auto" >
                                     <div class="card-body d-flex flex-column">
                                         <p class="card-text">Snowglobe Mono</p>
                                         <h6 class="card-title">CA $10.00</h6>
@@ -358,7 +408,7 @@
                         <div class="row mb-2 ">
                             <div class="col-md-4 mb-4">
                                 <div class="card news-card">
-                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/Small_items/Snowglobe2.png" alt="Color Snowglobe" height="auto">
+                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/small-items/Snowglobe2.png" alt="Color Snowglobe" height="auto">
                                     <div class="card-body d-flex flex-column">
                                         <p class="card-text">Snowglobe Color</p>
                                         <h6 class="card-title">10.00</h6>
@@ -367,7 +417,7 @@
                             </div>
                             <div class="col-md-4 mb-4">
                                 <div class="card news-card">
-                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/Small_items/Snowglobe4.png"  alt="MapleLeaf Snowglobe" height="auto">
+                                    <img class="card-img-right flex-auto d-lg-block w-100" src="/images/small-items/Snowglobe4.png" alt="MapleLeaf Snowglobe" height="auto">
                                     <div class="card-body d-flex flex-column">
                                         <p class="card-text">Snowglobe Maple Leaf </p>
                                         <h6 class="card-title">CA $15.00</h6>
@@ -376,7 +426,7 @@
                             </div>
                             <div class="col-md-4 mb-4">
                                 <div class="card news-card">
-                                    <img class="card-img-right flex-auto d-lg-block w-100" src="images/Small_items/Snowglobe3.png" alt="City Snowglobe" height="auto">
+                                    <img class="card-img-right flex-auto d-lg-block w-100" src="images/small-items/Snowglobe3.png" alt="City Snowglobe" height="auto">
                                     <div class="card-body d-flex flex-column">
                                         <p class="card-text">Snowglobe City</p>
                                         <h6 class="card-title">CA $8.00</h6>

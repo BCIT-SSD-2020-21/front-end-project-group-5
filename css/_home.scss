@@ -1,0 +1,126 @@
+.home.wrapper {
+  background-color: #fff;
+  width: 100%;
+}
+
+.row.home-gallery {
+  max-width: 1080px;
+}
+
+.card.home {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.card.home:first-child {
+  margin-left: 0px;
+}
+
+.card.home:last-child {
+  margin-right: 0px;
+}
+
+@media (min-width: 992px) {
+  .card.home {
+    margin-bottom: 10px;
+  }
+}
+
+@media (min-width: 992px) {
+  .card.home:first-child {
+    margin-left: 10px;
+  }
+}
+
+@media (min-width: 992px) {
+  .card.home:last-child {
+    margin-right: 10px;
+  }
+}
+
+.card.home-gallery img {
+  /*max-width: 100%;*/
+  /*min-height: 400px;*/
+  /*height: auto;*/
+  object-fit: cover;
+}
+
+.with-arrow .nav-link.active {
+  position: relative;
+}
+
+.with-arrow .nav-link.active::after {
+  content: '';
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-top: 6px solid #2b90d9;
+  position: absolute;
+  bottom: -6px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: block;
+}
+
+.lined .nav-link {
+  border: none;
+  border-bottom: 3px solid transparent;
+}
+
+.lined .nav-link.active {
+  background: none;
+  color: #555;
+  border-color: #2b90d9;
+}
+
+.nav-pills .nav-link {
+  color: #555;
+}
+
+.text-uppercase {
+  letter-spacing: 0.1em;
+}
+
+.home.grid-container img {
+  max-height: 350px;
+}
+
+@media (min-width: 992px) {
+  .home.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 0px 0px;
+    grid-template-areas: "product1 product3 product4 ." "product2 product3 product4 ." ". . . .";
+  }
+}
+
+@media (min-width: 992px) {
+  .home.grid-container img {
+    max-height: none;
+  }
+}
+
+@media (min-width: 992px) {
+  .home .product1 {
+    grid-area: product1;
+  }
+}
+
+@media (min-width: 992px) {
+  .home .product2 {
+    grid-area: product2;
+  }
+}
+
+@media (min-width: 992px) {
+  .home .product3 {
+    grid-area: product3;
+  }
+}
+
+@media (min-width: 992px) {
+  .home .product4 {
+    grid-area: product4;
+  }
+}
+
