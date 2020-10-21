@@ -14,12 +14,15 @@ textarea {
     width: 100%;
     padding: 12px;
     border: 1px solid #ccc;
+    background-color: #e9ecef;
     border-radius: 4px;
     box-sizing: border-box;
     margin-top: 6px;
     margin-bottom: 16px;
     resize: vertical;
 }
+
+
 
 input[type=submit] {
     background-color: #424dac;
@@ -62,4 +65,8 @@ input[type=submit]:hover {
 
 .payement-way li {
     margin-right: 15px;
+}
+.btn-secondary {
+    color: ##D9A404;
+    background-color: #D9A404;
 }
