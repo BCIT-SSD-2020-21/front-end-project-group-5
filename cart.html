@@ -6,60 +6,51 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <title>Cart</title>
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="fonts/font-awesome.min.css">
     <link rel="stylesheet" href="css/styles.css">
 </head>
 
 <body>
 <header id="header">
-
-    <div class="site-header-top-wrapper topbar-style--default sh--light">
-        <div class="row no-gutters bg-white">
-            <div class="col d-flex justify-content-md-center align-items-md-center w-100" style="padding-bottom: 3px;padding-top: 3px;">
-                <ul class="d-flex justify-content-end topnav nav-acct">
-                    <li class="topnav-li"><a class="kl-login-box topnav-item" href="login.html" style="font-size: 13px;"><i class="fa fa-user glyphicon glyphicon-log-in visible-xs xs-icon" style="font-size: 17px;color: rgb(0,0,0);padding-right: 5px;padding-left: 5px;"></i><span style="color: rgb(0,0,0);">My Account</span></a></li>
-                    <li
-                            class="topnav-li"><a class="kl-login-box topnav-item" href="login.html" style="color: rgb(0,0,0);"><span style="font-size: 13px;">My Wishlist</span></a></li>
-                </ul>
+    <div class="site-header-wrapper">
+        <div class="site-header-top-wrapper topbar-style--default sh--light">
+            <div class="row no-gutters bg-white">
+                <div class="col d-flex w-100" style="padding-top: 5px;padding-bottom: 5px;">
+                    <ul class="ml-auto sh-component topnav navRight topnav--log topnav-no-sc topnav-no-hdnav">
+                        <li class="topnav-li"><a class="kl-login-box topnav-item" href="login.html" style="font-size: 13px;"><i class="fa fa-user glyphicon glyphicon-log-in visible-xs xs-icon" style="font-size: 17px;color: rgb(0,0,0);padding-right: 5px;padding-left: 5px;"></i><span style="color: rgb(0,0,0);">My Account</span></a></li>
+                    </ul>
+                    <ul class="sh-component topnav navRight topnav--sliding-panel topnav-no-sc topnav-no-hdnav">
+                        <li class="topnav-li"><a class="kl-login-box topnav-item" href="login.html" style="color: rgb(0,0,0);"><span style="font-size: 13px;">My Wishlist</span></a></li>
+                    </ul>
+                </div>
             </div>
         </div>
-    </div>
-    <div class="site-header-wrapper">
         <div class="kl-top-header site-header-main-wrapper clearfix header-no-bottom sh--light">
             <div class="fxb-col fxb-basis-auto">
                 <div class="row no-gutters fxb-row site-header-row site-header-main">
-                    <div class="col" id="navbar">
-                        <div class="mx-auto header-mid fxb site-header-col-left header-mid-wrapper">
-                            <div>
-                                <div class="site-header-wrapper"><a class="site-logo-anch" href="#"><img src="img/gift-logo.png" alt="DreamLand logo"></a></div>
-                            </div>
-                            <div class="fxb-col fxb fxb-end-x fxb-center-y fxb-basis-auto fxb-sm-half site-header-col-right site-header-main-right">
-                                <form class="d-flex flex-grow-1 nav-search-container"><input class="form-control" type="text" id="navin" placeholder="Search" aria-label="Search"><button class="btn" id="navsub" type="button" value="ok" name="ok"><i class="fa fa-search"></i></button></form>
-                                <ul class="sh-component topnav navLeft topnav--cart topnav-no-sc topnav-no-hdnav">
-                                    <li class="drop midnav-drop midnav-li"><a id="mycartbtn" class="midnav kl-cart-button topnav-item kl-cart--" href="cart.html" title="View your shopping cart"><i class="fa fa-shopping-cart glyphicon glyphicon-shopping-cart kl-cart-icon" data-count="0" style="font-size: 44px;"></i><span style="font-size: 24px;"></span></a></li>
-                                </ul>
-                            </div>
+                    <div class="col header-mid fxb-col fxb fxb-start-x fxb-center-y fxb-basis-auto fxb-grow-0 fxb-sm-full site-header-col-left site-header-main-left" id="navbar"><a class="site-logo-anch" href="#"><img class="logo-img site-logo-img" src="images/gift-logo.png" alt="DreamLand logo"></a>
+                        <div class="fxb-col fxb fxb-end-x fxb-center-y fxb-basis-auto fxb-sm-half site-header-col-right site-header-main-right">
+                            <div class="d-flex flex-grow-1" style="width: auto;"><input type="text" id="navin" placeholder="Search"><button class="btn btn-primary" id="navsub" type="button" value="ok" name="ok"><i class="fa fa-search"></i></button></div>
+                            <ul class="sh-component topnav navLeft topnav--cart topnav-no-sc topnav-no-hdnav">
+                                <li class="drop topnav-drop topnav-li"><a id="mycartbtn" class="kl-cart-button topnav-item kl-cart--" href="#" title="View your shopping cart"><i class="fa fa-shopping-cart glyphicon glyphicon-shopping-cart kl-cart-icon flipX-icon xs-icon" data-count="0" style="font-size: 44px;"></i><span style="font-size: 24px;">&nbsp;My Cart</span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col fxb-col fxb fxb-center-x fxb-center-y fxb-basis-auto fxb-sm-half site-header-col-center site-header-main-center" style="background: rgb(2,4,64);">
+                        <div class="d-flex justify-content-xl-center align-items-xl-center sh-component main-menu-wrapper" role="navigation" style="width: 100%;height: 100%;">
+                            <ul class="list-unstyled d-flex justify-content-between nav-bottom" style="width: 100%;margin: 0px;min-width: 1px;padding: 18px;max-width: 600px;">
+                                <li><a href="index.html" style="padding: 3px;">Home</a></li>
+                                <li><a href="shop.html">Shop</a></li>
+                                <li><a href="products.html">Products</a></li>
+                                <li><a href="#">Elements</a></li>
+                                <li><a href="#">Pages</a></li>
+                            </ul>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <nav class="navbar navbar-light navbar-expand-md" style="background: rgb(2,4,64);">
-        <div class="container-fluid"><button data-toggle="collapse" class="navbar-toggler ml-auto" data-target="#navcol-1" id="menuToggle"><span class="sr-only"></span><span class="navbar-toggler-icon"></span><span></span></button>
-            <div class="collapse navbar-collapse" id="navcol-1">
-                <div class="d-flex justify-content-center align-items-xl-center" role="navigation" style="width: 100%;height: 100%;">
-                    <ul class="nav navbar-nav list-unstyled d-block align-items-center nav-bottom">
-                        <li class="nav-item"><a class="nav-link active" href="index.html">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="products.html">Products</a></li>
-                        <li class="nav-item"><a class="nav-link" href="cart.html">cart<br>(<em>placeholder</em>)</a></li>
-                        <li class="nav-item"><a class="nav-link" href="checkout.html">checkout<br>(<em>placeholder</em>)</a></li>
-                        <li class="nav-item"><a class="nav-link" href="product-single.html">product-single<br><em>(placeholder)</em></a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </nav>
 </header>
 
 <div class="shopping-cart">
