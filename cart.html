@@ -10,7 +10,6 @@
     <link rel="stylesheet" href="fonts/font-awesome.min.css">
     <link rel="stylesheet" href="css/styles.css">
 </head>
-
 <body>
 <header id="header">
     <div class="site-header-top-wrapper topbar-style--default sh--light">
@@ -61,92 +60,112 @@
         </div>
     </nav>
 </header>
-
-<div class="shopping-cart">
-    <div class="px-4 px-lg-0">
-        <div class="pb-5">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 p-5 bg-white rounded shadow-sm mb-5">
-                        <div class="table-responsive">
-                            <table class="table">
-                                <thead>
-                                <tr>
-                                    <th class="border-0 bg-light" scope="col"><span class="p-2 px-3 text-uppercase">Product</span></th>
-                                    <th class="border-0 bg-light" scope="col"><span class="py-2 text-uppercase">Price</span></th>
-                                    <th class="border-0 bg-light" scope="col"><span class="py-2 text-uppercase">Quantity</span></th>
-                                    <th class="border-0 bg-light" scope="col"><span class="py-2 text-uppercase">Remove</span></th>
-                                </tr>
-                                </thead>
-                                <tbody>
-                                <tr>
-                                    <td class="th border-0">
-                                        <div class="p-2"><img class="img-fluid rounded shadow-sm" src="images/gloves-socks-hats/apparel-hat-1.jpeg" width="70">
-                                            <div class="ml-3 d-inline-block align-middle">
-                                                <h5 class="mb-0"><a class="text-dark d-inline-block align-middle" href="#">Hat-1</a></h5><span class="text-muted font-weight-normal font-italic d-block">Category: Watches</span></div>
-                                        </div>
-                                    </td>
-                                    <td class="border-0 align-middle"><strong>$20.00</strong></td>
-                                    <td class="border-0 align-middle"><strong>1</strong></td>
-                                    <td class="border-0 align-middle"><a class="text-dark" href="#"><i class="fa fa-trash"></i></a></td>
-                                </tr>
-                                <tr>
-                                    <td class="th border-0">
-                                        <div class="p-2"><img class="img-fluid rounded shadow-sm" src="images/t-shirts/apparel-t-shirt-1.jpg" width="70">
-                                            <div class="ml-3 d-inline-block align-middle">
-                                                <h5 class="mb-0"><a class="text-dark d-inline-block align-middle" href="#">T-Shirt-1</a></h5><span class="text-muted font-weight-normal font-italic d-block">Category: Watches</span></div>
-                                        </div>
-                                    </td>
-                                    <td class="border-0 align-middle"><strong>$25.00</strong></td>
-                                    <td class="border-0 align-middle"><strong>2</strong></td>
-                                    <td class="border-0 align-middle"><a class="text-dark" href="#"><i class="fa fa-trash"></i></a></td>
-                                </tr>
-                                <tr>
-                                    <td class="th border-0">
-                                        <div class="p-2"><img class="img-fluid rounded shadow-sm" src="images/gloves-socks-hats/apparel-sweaters-1.jpg" width="70">
-                                            <div class="ml-3 d-inline-block align-middle">
-                                                <h5 class="mb-0"><a class="text-dark d-inline-block align-middle" href="#">Sweater-1</a></h5><span class="text-muted font-weight-normal font-italic d-block">Category: Watches</span></div>
-                                        </div>
-                                    </td>
-                                    <td class="border-0 align-middle"><strong>$30.00</strong></td>
-                                    <td class="border-0 align-middle"><strong>1</strong></td>
-                                    <td class="border-0 align-middle"><a class="text-dark" href="#"><i class="fa fa-trash"></i></a></td>
-                                </tr>
-                                </tbody>
-                            </table>
-                        </div>
+<div class="container">
+    <ol class="breadcrumb DeskView">
+        <li class="breadcrumb-item"><a href="index.html"><span>Home</span></a></li>
+        <li class="breadcrumb-item"><a href="products.html"><span>Product List</span></a></li>
+        <li class="breadcrumb-item active"><span>Cart</span></li>
+    </ol>
+    <div class="d-flex pb-5" style="width: 100%;">
+        <h1 class="d-inline"><strong>Shopping Cart</strong></h1>
+        <div class="d-flex flex-grow-1 flex-fill"><button class="btn ml-auto single" type="submit" style="color: #fff;padding: 10px 28px;">PROCEED TO CHECKOUT</button></div>
+    </div>
+    <div class="row">
+        <div class="col-12 col-xl-8 p-5 bg-white rounded shadow-sm mb-5">
+            <div class="table-responsive">
+                <table class="table">
+                    <tbody>
+                    <tr>
+                        <td class="th border-0">
+                            <div class="p-2"><img class="img-fluid rounded shadow-sm" src="images/t-shirts/apparel-t-shirt-3.jpg" width="70">
+                                <div class="ml-3 d-inline-block align-middle"><span class="text-muted font-weight-normal d-block">APPAREL, T-SHIRT</span>
+                                    <h5 class="mb-0"><a class="text-dark d-inline-block align-middle" href="#">Native T-shirt</a></h5>
+                                </div>
+                            </div>
+                        </td>
+                        <td class="border-0 align-middle" style="color: rgb(255,0,0);"><strong>$50.00</strong></td>
+                        <td class="border-0 align-middle"><input class="form-control-lg" type="number" placeholder="Qty" min="1" value="1" name="qty" style="width: 76px;border-style: none;"><br></td>
+                        <td class="border-0 align-middle"><br><strong>$50.00</strong><br><br><a class="text-dark" href="#"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="th border-0">
+                            <div class="p-2"><img class="img-fluid rounded shadow-sm" src="images/artcraft/gems-and-stones/Angelite%20Angel%20-%20Blue%20Angel.jpg" width="70">
+                                <div class="ml-3 d-inline-block align-middle"><span class="text-muted font-weight-normal d-block">ARTS &amp; CRAFTS, SCULPTURES</span>
+                                    <h5 class="mb-0"><a class="text-dark d-inline-block align-middle" href="#">Angelite Angel - Blue</a></h5>
+                                </div>
+                            </div>
+                        </td>
+                        <td class="border-0 align-middle" style="color: rgb(255,0,0);"><strong>$25.00</strong></td>
+                        <td class="border-0 align-middle"><input class="form-control-lg" type="number" placeholder="Qty" min="1" value="1" name="qty" style="width: 76px;border-style: none;"><br></td>
+                        <td class="border-0 align-middle"><br><strong>$75.00</strong><br><br><a class="text-dark" href="#"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="th border-0">
+                            <div class="p-2"><img class="img-fluid rounded shadow-sm" src="images/artcraft/gems-and-stones/Rose%20Quartz%20Angel%20Crystal%20Carving.jpg" width="70">
+                                <div class="ml-3 d-inline-block align-middle"><span class="text-muted font-weight-normal d-block">Category: Watches</span>
+                                    <h5 class="mb-0"><a class="text-dark d-inline-block align-middle" href="#">Angelite Angel - Rose</a></h5>
+                                </div>
+                            </div>
+                        </td>
+                        <td class="border-0 align-middle" style="color: rgb(255,0,0);"><strong>$25.00</strong></td>
+                        <td class="border-0 align-middle"><input class="form-control-lg" type="number" placeholder="Qty" min="1" value="1" name="qty" style="width: 76px;border-style: none;"><br></td>
+                        <td class="border-0 align-middle"><br><strong>$75.00</strong><br><br><a class="text-dark" href="#"></a></td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="row py-3">
+                <div class="col">
+                    <div class="input-group mb-4 border rounded-pill p-2"><input type="text" class="form-control border-0" placeholder="Apply coupon" aria-describedby="button-addon3">
+                        <div class="input-group-append border-0"><button class="btn btn-dark px-4 rounded-pill" id="button-addon3" type="button" style="background: #f4a920;border-style: none;">Apply coupon<i class="fa fa-gift ml-2"></i></button></div>
                     </div>
                 </div>
-                <div class="row py-5 py-4 bg-white rounded shadow-sm">
-                    <div class="col-lg-6">
-                        <div class="bg-light rounded-pill px-4 py-3 text-uppercase font-weight-bold"><span>Coupon code</span></div>
-                        <div class="p-4">
-                            <p class="font-italic mb-4">If you have a coupon code, please enter it in the box below</p>
-                            <div class="input-group mb-4 border rounded-pill p-2"><input type="text" class="form-control border-0" placeholder="Apply coupon" aria-describedby="button-addon3">
-                                <div class="input-group-append border-0"><button class="btn btn-dark px-4 rounded-pill" id="button-addon3" type="button">Apply coupon<i class="fa fa-gift ml-2"></i></button></div>
-                            </div>
-                        </div>
-                        <div class="bg-light rounded-pill px-4 text-uppercase font-weight-bold">
-                            <p class="py-3" style="text-align: center;"><strong>INSTRUCTIONS FOR SELLER</strong><br></p>
-                        </div>
-                        <div class="p-4">
-                            <p class="font-italic mb-4" style="font-weight: normal;">If you have some information for the seller you can leave them in the box below</p><textarea class="form-control" cols="30" rows="2"></textarea></div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="bg-light rounded-pill px-4 py-3 text-uppercase font-weight-bold"><span>Order Summary</span></div>
-                        <p class="p-4">Shipping and additional costs are calculated based on values you have entered.</p>
-                        <ul class="list-unstyled mb-4">
-                            <li class="d-flex justify-content-between py-3 border-bottom">Order Subtotal<strong class="text-muted"><strong>&nbsp;$100.00</strong></strong>
-                            </li>
-                            <li class="d-flex justify-content-between py-3 border-bottom">Shipping and Handing<strong class="text-muted"><strong>&nbsp;$10.00</strong></strong>
-                            </li>
-                            <li class="d-flex justify-content-between py-3 border-bottom">Tax<strong class="text-muted"><strong>$0.00</strong></strong>
-                            </li>
-                            <li class="d-flex justify-content-between py-3 border-bottom">Total<span class="font-weight-bold" style="font-size: 24px;color: rgb(108,117,125);">$110.00</span></li>
-                        </ul>
+                <div class="col">
+                    <div class="d-flex">
+                        <div class="d-block d-xl-flex justify-content-xl-end" style="width: 100%;margin-top: 10px;"><button class="btn ml-auto single" type="submit" style="color: #fff;padding: 10px 28px;">UPDATE CART</button></div>
                     </div>
                 </div>
             </div>
+        </div>
+        <div class="col-12 col-lg-4">
+            <div class="card shadow">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col">
+                            <p>Product Cost</p>
+                        </div>
+                        <div class="col text-right">
+                            <p><i class="fa fa-dollar"></i>200.00</p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <p>Shipping Cost</p>
+                        </div>
+                        <div class="col text-right">
+                            <p><i class="fa fa-dollar"></i>10.00</p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <p>Discount</p>
+                        </div>
+                        <div class="col text-right">
+                            <p>-&nbsp;<i class="fa fa-dollar"></i>10.00</p>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="row">
+                        <div class="col">
+                            <p style="font-size: 18px;"><strong>Total</strong></p>
+                        </div>
+                        <div class="col text-right">
+                            <p style="font-size: 18px;"><i class="fa fa-dollar"></i><strong>200.00</strong></p>
+                        </div>
+                    </div><button class="btn ml-auto single" type="submit" style="color: #fff;padding: 10px 28px;width: 100%;">PROCEED TO CHECKOUT</button>
+                    <hr><button class="btn btn-block" type="button"><strong>CONTINUE SHOPPING</strong></button></div>
+            </div>
+            <div class="card shadow mt-3"></div>
         </div>
     </div>
 </div>
@@ -201,6 +220,10 @@
 </footer>
 <script src="js/jquery.min.js"></script>
 <script src="bootstrap/js/bootstrap.min.js"></script>
+<script src="js/Bootstrap-4---Payment-Form.js"></script>
+<script src="js/featured-products-slider.js"></script>
+<script src="js/related-products.js"></script>
+<script src="js/slick.js"></script>
 </body>
 
 </html>
