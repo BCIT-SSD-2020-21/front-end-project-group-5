@@ -1,0 +1,36 @@
+.checkout {
+    text-align: center;
+    padding-bottom: 5%;
+    font-weight: lighter;
+}
+
+/* input[type=text] - will only select text fields
+input[type=password] - will only select password fields
+input[type=number] - will only select number fields */
+
+input[type=text],
+select,
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: #424dac;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #33296e;
+}
+
