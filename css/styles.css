@@ -2272,4 +2272,21 @@ input[type=submit] {
 input[type=submit]:hover {
   background-color: #33296e; }
 
+.bill-total {
+  margin-bottom: 30px;
+  padding: 0.75rem;
+  background-color: var(--color-article1-background);
+  border-color: var(--color-border);
+  display: flex;
+  justify-content: flex-end;
+  text-align: right; }
+
+.bill-total ul {
+  display: flex;
+  justify-content: flex-end;
+  list-style-type: none;
+  margin-bottom: 0;
+  flex-direction: column;
+  margin: 0px 35px; }
+
 /*# sourceMappingURL=styles.css.map */
