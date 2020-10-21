@@ -52,3 +52,14 @@ input[type=submit]:hover {
     flex-direction: column;
     margin: 0px 35px;
 }
+
+.payement-way {
+    width: 100%;
+    padding: 0;
+    display: flex;
+    list-style-type: none;
+}
+
+.payement-way li {
+    margin-right: 15px;
+}
