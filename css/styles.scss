@@ -1,10 +1,12 @@
 @import "variables";
 @import "mixins";
 
-@import "widget/carousel";
-@import "widget/featured_products";
-@import "widget/product-card";
+@import "widgets/carousel";
+@import "widgets/products-card";
+@import "widgets/featured-products";
+
 @import "footer";
 @import "nav";
 @import "card";
+@import "form";
 @import "home";

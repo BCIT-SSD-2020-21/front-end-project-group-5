@@ -19,7 +19,7 @@
 }
 
 a:hover {
-  color: #0094ff;
+  /*color: #0094ff;*/
 }
 
 a:focus, a:hover {
@@ -255,10 +255,6 @@ header li a {
   color: #ffffff;
 }
 
-* {
-  /*font-family: 'Raleway', sans-serif;*/
-}
-
 #menuToggle {
   padding: 10px 12px;
   padding-bottom: 5px;
@@ -287,9 +283,6 @@ header li a {
 .navbar-nav {
   width: 100%;
   margin-left: 49px;
-}
-
-nav a {
 }
 
 #nav-register {
@@ -333,4 +326,5 @@ nav a {
   /*display: inline-block;*/
   align-self: start;
 }
+
 
