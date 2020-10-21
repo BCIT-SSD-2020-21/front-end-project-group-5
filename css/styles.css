@@ -1,4 +1,5 @@
 /* Carousel */
+/* line 3, _carousel.scss */
 div.jumbotron.carousel-hero {
   color: #fff;
   text-align: center;
@@ -6,21 +7,22 @@ div.jumbotron.carousel-hero {
   background-position: center;
   padding-top: 100px;
   padding-bottom: 100px;
-  margin-bottom: 0;
-}
+  margin-bottom: 0; }
 
+/* line 13, _carousel.scss */
 div.jumbotron.hero-nature {
-  background-image: url("../img-at-the-construction.jpg");
-}
+  background-image: url("../img-at-the-construction.jpg"); }
 
+/* line 17, _carousel.scss */
 div.jumbotron.hero-photography {
-  background-image: url("../imgs-and-worker.jpg");
-}
+  background-image: url("../imgs-and-worker.jpg"); }
 
+/* line 21, _carousel.scss */
 div.jumbotron.hero-technology {
-  background: url("../img-shirt-8.jpg");
-}
+  background: url("../img-shirt-8.jpg"); }
 
+
+/* line 25, _carousel.scss */
 h1.checkout-title {
   text-shadow: 0 3px 3px rgba(97, 85, 85, 0.4);
   color: rgb(15, 3, 3);
@@ -43,91 +45,91 @@ h1.hero-title, h2.hero-title, h3.hero-title {
   text-shadow: 0 3px 3px rgba(0, 0, 0, 0.4);
   color: #fff;
   text-align: left;
-  font-size: 38px;
-}
+  font-size: 38px; }
 
+/* line 32, _carousel.scss */
 p.hero-subtitle {
   max-width: 600px;
   margin: 25px auto;
   padding: 10px 15px;
-  color: #fff;
-}
+  color: #fff; }
 
+/* line 39, _carousel.scss */
 .plat {
-  border-radius: 0px;
-}
+  border-radius: 0px; }
 
+/* line 43, _carousel.scss */
 .btn-primary.focus, .btn-primary:focus {
-  box-shadow: 0 0 0 0 #048f83 !important;
-}
+  box-shadow: 0 0 0 0 #048f83 !important; }
 
+/* line 47, _carousel.scss */
 .btn-primary:hover {
   color: #fff;
   background-color: #016090;
-  border-color: #016090;
-}
+  border-color: #016090; }
 
+/* line 53, _carousel.scss */
 .btn.btn-primary {
   background-color: #048f83 !important;
-  border-color: #048f83 !important;
-}
+  border-color: #048f83 !important; }
 
+/* line 58, _carousel.scss */
 .btn-primary.focus, .btn-primary:focus {
-  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
-}
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5); }
 
+/* line 62, _carousel.scss */
 span {
   font-style: inherit;
-  font-weight: inherit;
-}
+  font-weight: inherit; }
 
+/* line 67, _carousel.scss */
 .carousel-item {
   position: relative;
   /*z-index: 1;*/
   background: #fff;
-  height: 100%;
-}
+  height: 100%; }
 
+/* line 74, _carousel.scss */
 .carousel-content {
   position: absolute;
-  z-index: 999;
-}
+  z-index: 999; }
 
+/* line 79, _carousel.scss */
 .carousel-item img {
   /*position: absolute;*/
   /*width: 400px;*/
-  height: 600px;
-}
+  height: 600px; }
 
+/* line 85, _carousel.scss */
 .card-img-overlay h4, .card-img-overlay h1, .card-img-overlay h2, .card-img-overlay p {
-  text-align: left !important;
-}
+  text-align: left !important; }
 
+/* line 89, _carousel.scss */
 #navbar a {
-  padding: 13px;
-}
+  padding: 13px; }
 
+/* line 1, _footer.scss */
 #myFooter {
   background-color: #D9A404;
   color: #000;
-  padding-top: 30px;
-}
+  padding-top: 30px; }
 
+/* line 7, _footer.scss */
 #myFooter .footer-copyright p {
   margin: 10px;
-  color: #ccc;
-}
+  color: #ccc; }
 
+/* line 12, _footer.scss */
 #myFooter ul {
   list-style-type: none;
   padding-left: 0;
-  line-height: 1.7;
-}
+  line-height: 1.7; }
 
+/* line 18, _footer.scss */
 #myFooter li {
-  text-align: left;
-}
+  text-align: left; }
 
+/* line 22, _footer.scss */
 #myFooter h5 {
   font-size: 18px;
   color: white;
@@ -136,85 +138,85 @@ span {
   border-left: 5px solid black;
   font-weight: 700;
   text-align: left;
-  padding-left: 10px;
-}
+  padding-left: 10px; }
 
+/* line 33, _footer.scss */
 #myFooter a {
   color: #000;
   text-decoration: none;
-  font-weight: 700;
-}
+  font-weight: 700; }
 
+/* line 39, _footer.scss */
 #myFooter .social-networks a {
   font-size: 32px;
   color: #f9f9f9;
   padding: 10px;
-  transition: 0.2s;
-}
+  transition: 0.2s; }
 
+/* line 46, _footer.scss */
 .footer-text {
-  display: inline;
-}
+  display: inline; }
 
+/* line 1, _nav.scss */
 .fxb-col {
   -ms-flex: 1;
-  flex: 1;
-}
+  flex: 1; }
 
+/* line 6, _nav.scss */
 .fxb-basis-auto {
   -ms-flex-preferred-size: auto;
-  flex-basis: auto;
-}
+  flex-basis: auto; }
 
+/* line 11, _nav.scss */
 .fxb, .fxb-row {
   display: -ms-flexbox;
-  display: flex;
-}
+  display: flex; }
 
+/* line 16, _nav.scss */
 .fxb-center-y {
   -ms-flex-align: center;
-  align-items: center;
-}
+  align-items: center; }
 
+/* line 21, _nav.scss */
 a:hover {
-  color: #cd2122;
-}
+  color: #cd2122; }
 
+/* line 25, _nav.scss */
 a:focus, a:hover {
-  text-decoration: none;
-}
+  text-decoration: none; }
 
+/* line 29, _nav.scss */
 a:focus {
   outline: none;
   color: initial;
-  text-shadow: none;
-}
+  text-shadow: none; }
 
+/* line 35, _nav.scss */
 embed, iframe, img, object {
-  max-width: 100%;
-}
+  max-width: 100%; }
 
+/* line 39, _nav.scss */
 img {
-  height: auto;
-}
+  height: auto; }
 
+/* line 43, _nav.scss */
 .site-logo-img {
-  max-width: 100% !important;
-}
+  max-width: 100% !important; }
 
+/* line 47, _nav.scss */
 .sh--light .topnav-item:hover .glyphicon, .sh--light .topnav-no-sc .topnav-item:hover, .sh--light .topnav .menu-item > a:hover, .sh--light .topnav.sc--clean .topnav-item:hover {
   color: #fff;
-  opacity: 0.9;
-}
+  opacity: .9; }
 
+/* line 52, _nav.scss */
 .sh--light .topnav-li .glyphicon, .sh--light .topnav-no-sc .topnav-item, .sh--light .topnav .menu-item > a, .sh--light .topnav.sc--clean .topnav-item {
-  color: #fff;
-}
+  color: #fff; }
 
+/* line 56, _nav.scss */
 .topnav-item:hover, .topnav-li:hover > .topnav-item, .topnav .menu-item > a:hover {
-  opacity: 1;
-}
+  opacity: 1; }
 
+/* line 60, _nav.scss */
 .topnav-item, .topnav .menu-item > a {
   font-size: 11px;
   font-weight: 700;
@@ -222,18 +224,27 @@ img {
   line-height: 24px;
   display: block;
   padding: 0;
-  opacity: 0.8;
-}
+  opacity: .8; }
 
+/* line 70, _nav.scss */
 .topnav {
   padding: 0;
   list-style: none;
-  position: relative;
-}
+  position: relative; }
 
+/* line 76, _nav.scss */
 .topnav-li {
   padding-right: 10px;
-  padding-left: 10px;
-}
+  padding-left: 10px; }
+
+/* line 1, card.scss */
+.card-text {
+  color: #756868;
+  font-size: 14px; }
+
+/* line 6, card.scss */
+.card-title {
+  color: #272780;
+  font-size: 17px; }
 
 /*# sourceMappingURL=styles.css.map */
