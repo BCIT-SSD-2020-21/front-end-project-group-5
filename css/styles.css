@@ -21,26 +21,7 @@ div.jumbotron.hero-photography {
 div.jumbotron.hero-technology {
   background: url("../img-shirt-8.jpg"); }
 
-
 /* line 25, _carousel.scss */
-h1.checkout-title {
-  text-shadow: 0 3px 3px rgba(97, 85, 85, 0.4);
-  color: rgb(15, 3, 3);
-  text-align: center;
-  font-size: 50px;
-}
-
-div.wrapper {
-  padding: 2%;
-  text-align: center;
-}
-
-h3.billing-title {
-  color: rgb(15, 3, 3);
-  text-align: center;
-  font-size: 40px;
-}
-
 h1.hero-title, h2.hero-title, h3.hero-title {
   text-shadow: 0 3px 3px rgba(0, 0, 0, 0.4);
   color: #fff;
@@ -246,5 +227,41 @@ img {
 .card-title {
   color: #272780;
   font-size: 17px; }
+
+/* line 1, _navbar.scss */
+.nav-items {
+  width: 100%;
+  align-items: center;
+  margin-right: 5em; }
+
+/* line 7, _navbar.scss */
+.well {
+  display: flex;
+  align-items: center; }
+
+/* line 12, _navbar.scss */
+.title {
+  font-size: 1.3em;
+  font-style: italic; }
+
+/* line 17, _navbar.scss */
+.shopping-bag {
+  margin-left: 20px;
+  padding-left: 3em; }
+
+/* line 22, _navbar.scss */
+.top-bar {
+  font-size: 13px; }
+
+/* line 27, _navbar.scss */
+.home-tab a {
+  font-size: 15px;
+  color: grey; }
+
+/* line 33, _navbar.scss */
+.category-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; }
 
 /*# sourceMappingURL=styles.css.map */
