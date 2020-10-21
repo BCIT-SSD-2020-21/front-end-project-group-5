@@ -21,7 +21,26 @@ div.jumbotron.hero-photography {
 div.jumbotron.hero-technology {
   background: url("../img-shirt-8.jpg"); }
 
+
 /* line 25, _carousel.scss */
+h1.checkout-title {
+  text-shadow: 0 3px 3px rgba(97, 85, 85, 0.4);
+  color: rgb(15, 3, 3);
+  text-align: center;
+  font-size: 50px;
+}
+
+div.wrapper {
+  padding: 2%;
+  text-align: center;
+}
+
+h3.billing-title {
+  color: rgb(15, 3, 3);
+  text-align: center;
+  font-size: 40px;
+}
+
 h1.hero-title, h2.hero-title, h3.hero-title {
   text-shadow: 0 3px 3px rgba(0, 0, 0, 0.4);
   color: #fff;
