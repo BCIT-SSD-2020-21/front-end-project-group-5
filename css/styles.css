@@ -2241,6 +2241,7 @@ header li a {
 @media (min-width: 992px) {
   .home .product4 {
     grid-area: product4; } }
+<<<<<<< HEAD
 .checkout {
   text-align: center;
   padding-bottom: 5%;
@@ -2311,5 +2312,7 @@ button.submit {
   color: #fff;
   background-color: #D9A404;
   border: none; }
+=======
+>>>>>>> main
 
 /*# sourceMappingURL=styles.css.map */
