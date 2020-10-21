@@ -1,4 +1,5 @@
 /* Carousel */
+
 div.jumbotron.carousel-hero {
   color: #fff;
   text-align: center;
@@ -7,6 +8,18 @@ div.jumbotron.carousel-hero {
   padding-top: 100px;
   padding-bottom: 100px;
   margin-bottom: 0;
+}
+
+div.jumbotron.hero-nature {
+  background-image: url('../images/architect-at-the-construction.jpg');
+}
+
+div.jumbotron.hero-photography {
+  background-image: url('../images/architects-and-worker.jpg');
+}
+
+div.jumbotron.hero-technology {
+  background: url("../images/apparel-t-shirt-8.jpg");
 }
 
 h1.hero-title, h2.hero-title, h3.hero-title {
@@ -71,9 +84,5 @@ span {
 
 .card-img-overlay h4, .card-img-overlay h1, .card-img-overlay h2, .card-img-overlay p {
   text-align: left !important;
-}
-
-#navbar a {
-  padding: 13px;
 }
 

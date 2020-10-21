@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8404e17-8197-4bc7-a5f5-6957c5b9d9c5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Photos/Asset/Footer/Payment-icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Photos/Asset/Home/photo-angels-sidebar-slideshow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Photos/Asset/Home/product-box-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Photos/Asset/Home/product-box-gem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Photos/Asset/Home/product-box-tshirt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Photos/Asset/Home/slideshow-size.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/DraftUseCaseDiagram.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/SALMON-ARM-BEST-COMMUNITIES-CANADA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/ceramic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/checkout_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/gems-stones.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/MiscSouvenirs/Keychain1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/MiscSouvenirs/Keychain2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/MiscSouvenirs/Keychain3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/MiscSouvenirs/Keychain4.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/MiscSouvenirs/Ornament1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/MiscSouvenirs/Ornament2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/MiscSouvenirs/Ornament3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/MiscSouvenirs/Ornament4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/MiscSouvenirs/Snowglobe1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/MiscSouvenirs/Snowglobe2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/MiscSouvenirs/Snowglobe3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/MiscSouvenirs/Snowglobe4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/MiscSouvenirs/Stufftoy1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/MiscSouvenirs/Stufftoy2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/MiscSouvenirs/Stufftoy3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/MiscSouvenirs/Stufftoy5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/MiscSouvenirs/Stufftoy6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/MiscSouvenirs/Stufftoy7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/MiscSouvenirs/ToyCar1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/MiscSouvenirs/apparel-scarvers-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/MiscSouvenirs/apparel-t-shirt-10.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/MiscSouvenirs/apparel-t-shirt-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/MiscSouvenirs/apparel-t-shirt-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/MiscSouvenirs/mar-2-b-en.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/footer/americanexpress.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/footer/mastercard.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/footer/paypal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/footer/visa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/images/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/product template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archived_files/sculptures.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/_nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/widgets/_carousel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/widgets/_carousel.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/widgets/_featured-products.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/widgets/_featured-products.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/widgets/_products-card-single.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/widgets/_products-card-single.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/widgets/_products-card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/widgets/_products-card.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/widgets/_related-products-slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/widgets/_related-products-slider.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/product-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products-smallitems.html" beforeDir="false" afterPath="$PROJECT_DIR$/archived_files/products-smallitems.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products-template.html" beforeDir="false" afterPath="$PROJECT_DIR$/archived_files/products-template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/products.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1603315975" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="nicholaso" />
+                    <option name="lastUsedInstant" value="1603315879" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="nicholas" />
+                    <option name="lastUsedInstant" value="1603131450" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="prototype" />
+                    <option name="lastUsedInstant" value="1602848745" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/BCIT-SSD-2020-21/front-end-project-group-5.git" />
+      </set>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/product-single.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/index.html" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1ispb2HyBfLPCjHUFHoWt9FqDxy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\BCIT\Courses\(SSD) Software Systems Developer\FrontEnd-Project\front-end-project-group-5\js" />
+      <recent name="C:\BCIT\Courses\(SSD) Software Systems Developer\FrontEnd-Project\front-end-project-group-5" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\BCIT\Courses\(SSD) Software Systems Developer\FrontEnd-Project\front-end-project-group-5\archived_files" />
+      <recent name="C:\BCIT\Courses\(SSD) Software Systems Developer\FrontEnd-Project\front-end-project-group-5\prototype" />
+      <recent name="C:\BCIT\Courses\(SSD) Software Systems Developer\FrontEnd-Project\front-end-project-group-5\images" />
+      <recent name="C:\BCIT\Courses\(SSD) Software Systems Developer\FrontEnd-Project\front-end-project-group-5\js" />
+      <recent name="C:\BCIT\Courses\(SSD) Software Systems Developer\FrontEnd-Project\front-end-project-group-5\images\scarves" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="cart.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/front-end-project-group-5/cart.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/front-end-project-group-5/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="product-single.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/front-end-project-group-5/product-single.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="products-smallitems.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/front-end-project-group-5/archived_files/products-smallitems.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="products.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/front-end-project-group-5/products.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.product-single.html" />
+        <item itemvalue="JavaScript Debug.cart.html" />
+        <item itemvalue="JavaScript Debug.products.html" />
+        <item itemvalue="JavaScript Debug.products-smallitems.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8404e17-8197-4bc7-a5f5-6957c5b9d9c5" name="Default Changelist" comment="" />
+      <created>1602706221032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602706221032</updated>
+      <workItem from="1602706224140" duration="2510000" />
+      <workItem from="1602717651126" duration="749000" />
+      <workItem from="1602848404011" duration="7361000" />
+      <workItem from="1602884194362" duration="1138000" />
+      <workItem from="1602888758762" duration="2367000" />
+      <workItem from="1602904220227" duration="2507000" />
+      <workItem from="1602974732045" duration="1344000" />
+      <workItem from="1603123895720" duration="2022000" />
+      <workItem from="1603126607550" duration="7054000" />
+      <workItem from="1603135570760" duration="560000" />
+      <workItem from="1603136924251" duration="21000" />
+      <workItem from="1603137898109" duration="169000" />
+      <workItem from="1603145508662" duration="12609000" />
+      <workItem from="1603300535918" duration="11791000" />
+    </task>
+    <task id="LOCAL-00001" summary="Revert &quot;Updated product page&quot;&#10;&#10;This reverts commit 3ffff8a3">
+      <created>1603316254820</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603316254820</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;Updated product page&quot;&#10;&#10;This reverts commit 3ffff8a3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Updated product page&quot;&#10;&#10;This reverts commit 3ffff8a3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="744" y="348" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603302821529">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="744" y="348" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1603302821529" />
+    <state x="837" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603310430191">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="837" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1603310430191" />
+    <state x="731" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603316888730">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2651" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1603299435005" />
+    <state x="731" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1603316888730" />
+    <state x="515" y="39" key="CommitChangelistDialog2" timestamp="1603316253905">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="515" y="39" key="CommitChangelistDialog2/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1603316253905" />
+    <state x="579" y="298" key="EditFileWatcherDialog" timestamp="1603302724225">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="579" y="298" key="EditFileWatcherDialog/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1603302724225" />
+    <state x="576" y="356" key="FileChooserDialogImpl" timestamp="1603301925306">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2496" y="356" key="FileChooserDialogImpl/62.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1603295584796" />
+    <state x="576" y="356" key="FileChooserDialogImpl/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1603301925306" />
+    <state width="1798" height="355" key="GridCell.Tab.0.bottom" timestamp="1603301273589">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1813" height="312" key="GridCell.Tab.0.bottom/62.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1603300408511" />
+    <state width="1798" height="355" key="GridCell.Tab.0.bottom/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1603301273589" />
+    <state width="1798" height="355" key="GridCell.Tab.0.center" timestamp="1603301273589">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1813" height="312" key="GridCell.Tab.0.center/62.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1603300408511" />
+    <state width="1798" height="355" key="GridCell.Tab.0.center/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1603301273589" />
+    <state width="1798" height="355" key="GridCell.Tab.0.left" timestamp="1603301273589">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1813" height="312" key="GridCell.Tab.0.left/62.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1603300408511" />
+    <state width="1798" height="355" key="GridCell.Tab.0.left/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1603301273589" />
+    <state width="1798" height="355" key="GridCell.Tab.0.right" timestamp="1603301273589">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1813" height="312" key="GridCell.Tab.0.right/62.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1603300408511" />
+    <state width="1798" height="355" key="GridCell.Tab.0.right/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1603301273589" />
+    <state width="1798" height="355" key="GridCell.Tab.1.bottom" timestamp="1603301273589">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1813" height="312" key="GridCell.Tab.1.bottom/62.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1603300408511" />
+    <state width="1798" height="355" key="GridCell.Tab.1.bottom/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1603301273589" />
+    <state width="1798" height="355" key="GridCell.Tab.1.center" timestamp="1603301273589">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1813" height="312" key="GridCell.Tab.1.center/62.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1603300408511" />
+    <state width="1798" height="355" key="GridCell.Tab.1.center/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1603301273589" />
+    <state width="1798" height="355" key="GridCell.Tab.1.left" timestamp="1603301273589">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1813" height="312" key="GridCell.Tab.1.left/62.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1603300408511" />
+    <state width="1798" height="355" key="GridCell.Tab.1.left/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1603301273589" />
+    <state width="1798" height="355" key="GridCell.Tab.1.right" timestamp="1603301273589">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1813" height="312" key="GridCell.Tab.1.right/62.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1603300408511" />
+    <state width="1798" height="355" key="GridCell.Tab.1.right/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1603301273589" />
+    <state width="1798" height="355" key="GridCell.Tab.2.bottom" timestamp="1603301273589">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1813" height="312" key="GridCell.Tab.2.bottom/62.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1603300408512" />
+    <state width="1798" height="355" key="GridCell.Tab.2.bottom/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1603301273589" />
+    <state width="1798" height="355" key="GridCell.Tab.2.center" timestamp="1603301273589">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1813" height="312" key="GridCell.Tab.2.center/62.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1603300408511" />
+    <state width="1798" height="355" key="GridCell.Tab.2.center/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1603301273589" />
+    <state width="1798" height="355" key="GridCell.Tab.2.left" timestamp="1603301273589">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1813" height="312" key="GridCell.Tab.2.left/62.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1603300408511" />
+    <state width="1798" height="355" key="GridCell.Tab.2.left/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1603301273589" />
+    <state width="1798" height="355" key="GridCell.Tab.2.right" timestamp="1603301273589">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1813" height="312" key="GridCell.Tab.2.right/62.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1603300408512" />
+    <state width="1798" height="355" key="GridCell.Tab.2.right/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1603301273589" />
+    <state x="418" y="169" key="MergeDialog" timestamp="1603316334947">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="418" y="169" key="MergeDialog/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1603316334947" />
+    <state x="774" y="211" width="847" height="816" key="MultipleFileMergeDialog" timestamp="1603316335953">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="774" y="211" width="847" height="816" key="MultipleFileMergeDialog/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1603316335953" />
+    <state x="591" y="272" key="Vcs.Push.Dialog.v2" timestamp="1603316257488">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="591" y="272" key="Vcs.Push.Dialog.v2/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1603316257488" />
+    <state x="569" y="210" key="VcsDiffUtil.ChangesDialog" timestamp="1603316036046">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="569" y="210" key="VcsDiffUtil.ChangesDialog/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1603316036046" />
+    <state x="2729" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603299280730">
+      <screen x="1982" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2729" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1603299280730" />
+  </component>
+</project>
