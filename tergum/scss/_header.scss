@@ -2,19 +2,22 @@ header{
     background-color: map-get($colors, green);
     display: flex;
     align-items: center;
-    padding: 2%;
+    padding: 2% 10%;
     justify-content: space-between;
     
 
 }
 
-a{        
-    text-decoration: none;
-    color: white;
-}
 .cart-icon{
     padding-right: 10%;
     font-size: 150%;
     color: white,
 }
+    
+.cart-icon a{        
+    text-decoration: none;
+    color: white;
+}
+    
+
 

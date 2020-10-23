@@ -49,16 +49,34 @@ header {
   background-color: #403C02;
   display: flex;
   align-items: center;
-  padding: 2%;
+  padding: 2% 10%;
   justify-content: space-between; }
-
-a {
-  text-decoration: none;
-  color: white; }
 
 .cart-icon {
   padding-right: 10%;
   font-size: 150%;
+  color: white; }
+
+.cart-icon a {
+  text-decoration: none;
+  color: white; }
+
+.navbar {
+  background-color: #052A59;
+  font-family: Arial, Helvetica, sans-serif; }
+
+.navbar-nav {
+  display: flex;
+  padding: 1%;
+  justify-content: center;
+  padding: 1%; }
+
+.nav-item {
+  padding-left: 2%;
+  padding-right: 2%; }
+
+.navbar a {
+  text-decoration: none;
   color: white; }
 
 /*# sourceMappingURL=main.css.map */
