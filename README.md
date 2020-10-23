@@ -81,8 +81,10 @@
 ## XD Prototypes ##
 **ecommerce - BC products/souvenirs**
 
-<img src="https://imgur.com/fQ0Ua65.png" width="50%%">
-<img src="https://imgur.com/9ng1QD7.png" width="50%%">
-<img src="https://imgur.com/m64j3sD.png" width="50%%">
-<img src="https://imgur.com/wu4AuKb.png" width="50%%">
-<img src="https://imgur.com/nRjJuOe.png" width="50%%">
+
+<img src ="https://imgur.com/6QFCsP9.png" width="50%">
+<img src ="https://imgur.com/rz8DGQ4.png" width="50%">
+<img src ="https://imgur.com/QOUfu8e.png" width="50%">
+<img src ="https://imgur.com/O06cdT8.png" width="50%">
+<img src ="https://imgur.com/VgB416I.png" width="50%">
+
