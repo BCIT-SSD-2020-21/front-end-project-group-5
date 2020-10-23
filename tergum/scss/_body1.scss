@@ -1,0 +1,18 @@
+.body1{
+    background-color: map-get($colors , light-blue );
+    padding: 5%;
+    display: flex;
+    justify-content: center;
+   
+}
+
+aside img{
+    width: 225px;
+    height: 120px;
+    object-fit: cover;
+    padding: 1% 5%;
+    // margin-left: auto;
+    // margin-right: auto;
+
+
+}
