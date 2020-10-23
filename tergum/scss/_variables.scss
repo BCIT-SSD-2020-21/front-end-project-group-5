@@ -4,6 +4,11 @@ $colors: (
     green: #403C02,
     yellow: #D9A404,
     orange:  #D98E04
-)
+);
 
 // example: background-color: map-get($colors, dark-blue);
+
+//breakpoint variables
+$breakpoint-mobile: 640px;
+$breakpoint-tablet: 768px;
+$breakpoint-desktop: 1024px;
