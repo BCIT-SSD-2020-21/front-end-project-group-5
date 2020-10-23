@@ -27,8 +27,14 @@
 .home-tab a{
     font-size: 15px;
     color: grey;
+    margin-left: 0 !important;
 }
 
+.nav-item{
+
+    margin-left: 0;
+}
+}
 
 .category-heading{
     display: flex;
