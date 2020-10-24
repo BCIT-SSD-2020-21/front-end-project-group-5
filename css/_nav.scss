@@ -18,9 +18,9 @@
   align-items: center;
 }
 
-a:hover {
-  /*color: #0094ff;*/
-}
+// a:hover {
+//   /*color: #0094ff;*/
+// }
 
 a:focus, a:hover {
   text-decoration: none;
@@ -114,13 +114,13 @@ header li a {
   border-style: none;
 }
 
-.topnav {
-  /*width: 100%;*/
-}
+// .topnav {
+//   /*width: 100%;*/
+// }
 
-.topnav-li {
-  /*height: 100%;*/
-}
+// .topnav-li {
+//   /*height: 100%;*/
+// }
 
 .topnav-li a {
   height: 100%;
@@ -161,8 +161,8 @@ header li a {
   border-style: none;
 }
 
-.site-header-wrapper {
-}
+// .site-header-wrapper {
+// }
 
 #navbar {
   background: #403c02;
@@ -175,11 +175,11 @@ header li a {
   text-align: center;
 }
 
-@media (min-width: 768px) {
-  .navbar, .navbar-toggler {
-    /*display: block;*/
-  }
-}
+// @media (min-width: 768px) {
+//   .navbar, .navbar-toggler {
+//     /*display: block;*/
+//   }
+// }
 
 @media (min-width: 768px) {
   .nav-bottom {
@@ -216,11 +216,11 @@ header li a {
   }
 }
 
-@media (max-width: 768px) {
-  .nav-bottom li a {
-    /*padding: 20px;*/
-  }
-}
+// @media (max-width: 768px) {
+//   .nav-bottom li a {
+//     /*padding: 20px;*/
+//   }
+// }
 
 .nav-bottom li a {
   padding-top: 15px;
@@ -235,8 +235,8 @@ header li a {
   margin-bottom: 44px;
 }
 
-#menuToggle {
-}
+// #menuToggle {
+// }
 
 #menuToggle {
   /*position: absolute;*/
