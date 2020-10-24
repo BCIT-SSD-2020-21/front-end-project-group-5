@@ -805,8 +805,8 @@ span {
   -webkit-animation-name: bounceIn;
   animation-name: bounceIn; }
 
-.bounceOut, .flipOutX {
-  -webkit-animation-duration: .75s; }
+/* .bounceOut, .flipOutX {
+  -webkit-animation-duration: .75s; } */
 
 @keyframes bounceInDown {
   60%, 75%, 90%, from, to {
@@ -1857,11 +1857,10 @@ span {
   font-size: 32px;
   letter-spacing: -2px; }
 
-.product-single-card {
-  /*margin: 0px 20px;*/ }
-
-.product-single-card-body {
-  /*margin: 0 20px;*/ }
+/* .product-single-card {
+  margin: 0px 20px;*}/ }
+/* .product-single-card-body {
+  margin: 0 20px;}*/ 
 
 .product-single-card-body span {
   color: #000;
