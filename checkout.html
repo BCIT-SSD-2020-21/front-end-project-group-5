@@ -166,17 +166,17 @@
         <div class="tab-content">
 
           <!-- credit card info-->
-          <div id="nav-tab-card" class="tab-pane fade show active">
-            <p class="alert alert-warning">Some text success or error</p>
+          <div id="nav-tab-card" class="tab-pane fade show active"> 
+            <!-- <p class="alert alert-warning">Some text success or error</p> -->
             <form role="form">
               <div class="form-group">
                 <label for="username">Full name (on the card)</label>
-                <input type="text" name="username" placeholder="Jeff Doe" required class="form-control">
+                <input type="text" name="username" placeholder="Jeff Doe" class="form-control" required>
               </div>
               <div class="form-group">
                 <label for="cardNumber">Card number</label>
                 <div class="input-group">
-                  <input type="text" name="cardNumber" placeholder="Your card number" class="form-control" required>
+                  <input type="text" id="creditCard" placeholder="Your card number" class="card-number form-control" required>
                   <div class="input-group-append">
                     <span class="input-group-text text-muted">
                                                 <i class="fa fa-cc-visa mx-1"></i>
@@ -201,14 +201,14 @@
                     <label data-toggle="tooltip" title="Three-digits code on the back of your card">CVV
                                                 <i class="fa fa-question-circle"></i>
                                             </label>
-                    <input type="text" required class="form-control">
+                    <input type="text" class="form-control" required>
                   </div>
                 </div>
 
 
 
               </div>
-              <button type="button" class="subscribe btn btn-warning btn-block rounded-pill shadow-sm"> Confirm  </button>
+              <button type="submit" onclick="validateCard(document.getElementById('creditCard'));" class="btn btn-warning btn-block rounded-pill shadow-sm"> Confirm  </button>
             </form>
           </div>
           <!-- End -->
@@ -265,12 +265,12 @@
     <form>
         <div class="form-group">
                 <label>First name</label>
-                <input type="text" class="form-control form-control-sm" placeholder="" value="" autocomplete="given-name">
+                <input type="text" class="form-control form-control-sm" placeholder="" value="" autocomplete="given-name" required>
         </div>
         
         <div class="form-group">
                 <label>Last name</label>
-                <span><input type="text" class="form-control form-control-sm" name="billing_last_name" placeholder="" value="" autocomplete="family-name"></span>
+                <input type="text" class="form-control form-control-sm" name="billing_last_name" placeholder="" value="" autocomplete="family-name" required>
         </div>
     
         <div class="form-group">
@@ -533,9 +533,7 @@
          
             <div class="form-group">
                 <label>Address</label>
-                <span>
-                    <input type="text" class="form-control form-control-sm" name="billing_address_1" placeholder="" value="" autocomplete="address-line1" data-placeholder="House number and street name">
-                </span>
+                    <input type="text" class="form-control form-control-sm" name="billing_address_1" placeholder="" value="" autocomplete="address-line1" data-placeholder="House number and street name" required>
             </div>
 
             <!-- Submit Button -->
@@ -548,30 +546,22 @@
         <form>
             <div class="form-group">
                 <label>City</label>
-                <span>
-                    <input type="text" class="form-control form-control-sm" name="billing_city" placeholder="" value="" autocomplete="address-level2">
-                </span>
+                    <input type="text" class="form-control form-control-sm" name="billing_city" placeholder="" value="" autocomplete="address-level2" required>
             </div>
     
             <div class="form-group">
                 <label>Province</label>
-                <span>
-                    <input type="text" class="form-control form-control-sm" name="billing_city" placeholder="" value=" BC" autocomplete="address-level1">
-                </span>
+                    <input type="text" class="form-control form-control-sm" name="billing_city" placeholder="" value=" BC" autocomplete="address-level1" required>
             </div>
     
             <div class="form-group">
-                <label>Postcode</label>
-                <span>
-                    <input type="text" class="form-control form-control-sm" name="billing_postcode" placeholder="" value="" autocomplete="postal-code">
-                </span>
+                <label>Postcode</label>                
+                    <input type="text" class="form-control form-control-sm" name="billing_postcode" placeholder="" value="" autocomplete="postal-code" required>               
             </div>
     
             <div class="form-group">
-                <label>Phone</label>
-                <span>
-                    <input type="tel" class="form-control form-control-sm" name="billing_phone" value="" autocomplete="tel">
-                </span>
+                <label>Phone</label>              
+                    <input type="tel" class="form-control form-control-sm" name="billing_phone" value="" autocomplete="tel" required>              
             </div>
 
     </form>
@@ -643,6 +633,7 @@
             </div>
         </div>
     </footer>
+    <script src="js/validation.js"></script>
     <script src="js/jquery.min.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script>
     <script src="js/Bootstrap-4---Payment-Form.js"></script>
