@@ -2036,12 +2036,12 @@ span {
   letter-spacing: -2px; }
 
 /* line 11, widgets/_products-card-single.scss */
-.product-single-card {
-  /*margin: 0px 20px;*/ }
+/* .product-single-card { */
+  /* margin: 0px 20px; } */
 
 /* line 15, widgets/_products-card-single.scss */
-.product-single-card-body {
-  /*margin: 0 20px;*/ }
+/* .product-single-card-body { */
+  margin: 0 20px; }
 
 /* line 19, widgets/_products-card-single.scss */
 .product-single-card-body span {
@@ -3004,3 +3004,12 @@ header li a {
   align-items: center; }
 
 /*# sourceMappingURL=styles.css.map */
+
+
+
+/* ---------- ABOUT PAGE ---------- */
+.aboutus-content .about-images {
+  position: relative;
+  text-align: center;
+  overflow: hidden;
+}
