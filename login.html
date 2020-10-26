@@ -7,9 +7,55 @@
     <title>Document</title>
 </head>
 <body>
-    <div class ="ajbutton">
-      <button class="ajloginbutton" id="ajidbutton">Log in</button>
+    <div class="ajmodallogin">
 
+    <button class="ajbutton" onclick="document.getElementById('ajmodalsignin').style.display='block'" style="width:auto;">Log in</button>
+
+    <div id="ajmodalsignin" class="modal">
+            <form class="modal-content animate" action="/action_page.php" method="post">
+
+                <!--Image-->
+                <div class="imgcontainer">
+                <span onclick="document.getElementById('ajmodalsignin').style.display='none'" class="close" title="Close Modal">&times;</span>
+                <img src= "/images/small-items/icon_user-circle.png" alt="userpic" class="userpic">
+                </div>
+                
+               <!--Form-->
+                <div class="ajcontainer">
+                    <label for="ajname"><b>Username</b></label>
+                    <input class= "ajinput" type="text" placeholder="Enter Username" name="uname" required>
+                    <br>
+            
+                    <label for="ajpsw"><b>Password</b></label>
+                    <input class= "ajinput" type="password" placeholder="Enter Password" name="psw" required>
+                        
+                    <button class="ajbutton" type="submit">Login</button>
+                    <label>
+                    
+                    <input class= "ajinput" type="checkbox" checked="checked" name="remember"> Remember me
+                </label>
+                </div>
+            
+                <div class="ajcontainer" style="background-color: #403C02">
+                    <button class="ajbuttoncancel"  type="button" onclick="document.getElementById('ajmodalsignin').style.display='none'">Cancel</button>
+                    <span class="psw"> <a href="#" id="ajforgotpass">Forgot password?</a></span>
+                </div>
+                
+            </form>
+        </div>
+        
+        <script>
+        // Get the modal
+        var modal = document.getElementById('ajmodalsignin');
+        
+        // When the user clicks anywhere outside of the modal, close it
+        window.onclick = function(event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
+        }
+        </script>
     </div>
+</div>
 </body>
 </html>
