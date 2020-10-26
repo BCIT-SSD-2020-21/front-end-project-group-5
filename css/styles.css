@@ -2715,7 +2715,6 @@ span.psw {
   float: right;
   padding-top: 16px; }
 
-/* The Modal (background) */
 .modal {
   display: none;
   position: fixed;
@@ -2732,7 +2731,7 @@ span.psw {
   background-color: #fefefe;
   margin: 5% auto 15% auto;
   border: 1px solid black;
-  width: 70%; }
+  width: 500px; }
 
 .close {
   position: absolute;
