@@ -1857,11 +1857,11 @@ span {
   font-size: 32px;
   letter-spacing: -2px; }
 
-.product-single-card {
-  /*margin: 0px 20px;*/ }
+/* .product-single-card { */
+  /*margin: 0px 20px;*}/ 
 
-.product-single-card-body {
-  /*margin: 0 20px;*/ }
+/* .product-single-card-body { */
+  /*margin: 0 20px;*}/ 
 
 .product-single-card-body span {
   color: #000;
