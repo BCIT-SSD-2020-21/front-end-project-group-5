@@ -1857,11 +1857,11 @@ span {
   font-size: 32px;
   letter-spacing: -2px; }
 
-/* .product-single-card { */
-  /*margin: 0px 20px;*}/ 
+.product-single-card {
+  /*margin: 0px 20px;*/ }
 
-/* .product-single-card-body { */
-  /*margin: 0 20px;*}/ 
+.product-single-card-body {
+  /*margin: 0 20px;*/ }
 
 .product-single-card-body span {
   color: #000;
@@ -1871,8 +1871,8 @@ span {
 .product-single-card-body .fa {
   /*color: #000;*/
   /*font-size: 20px;*/
-  /* width: 100%; */
-  /* text-align: right; } */
+  width: 100%;
+  text-align: right; }
 
 .single.btn {
   color: #fff;
@@ -2662,12 +2662,3 @@ header li a {
   align-items: center; }
 
 /*# sourceMappingURL=styles.css.map */
-
-
-/*# about us page */
-
-.aboutus-content .about-images {
-  position: relative;
-  text-align: center;
-  overflow: hidden;
-}
